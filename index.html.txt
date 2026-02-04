@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Buddy Products</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Buddy Products</h1>
+    <p>Your security and automation tools, free to download.</p>
+  </header>
+
+  <main>
+    <section class="product">
+      <h2>Buddy Anti-Theft App</h2>
+      <p>Protect your phone from theft. Install and secure your device.</p>
+      <a href="buddy.apk" download class="btn">Download APK</a>
+    </section>
+
+    <section class="product">
+      <h2>Buddy Bot (Windows)</h2>
+      <p>Windows automation bot for your tasks.</p>
+      <a href="buddy_bot.exe" download class="btn">Download EXE</a>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2026 Buddy Products. All rights reserved.</p>
+  </footer>
+</body>
+</html>
